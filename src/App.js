@@ -7,7 +7,7 @@ function App() {
   // console.log(styles);
 
   return (
-    <BrowserRouter basename='/'>
+    <BrowserRouter basename='/react-movies'>
       <header>
         <Link to={'/'}>
           <div>
